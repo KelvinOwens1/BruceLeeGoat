@@ -1,7 +1,7 @@
 body {
   background: url("images/bruce-lee.jpg") top right no-repeat;
   background-attachment: fixed;
-  /* font-family: 'Long Cang', cursive; */
+  font-family: 'Arial', cursive;
   font-size: 20px;
   color: white;
   padding: 0;
